@@ -1,2 +1,3 @@
 # HositalManagementSystem
-Hospital Management System || C++
+Hospital Management System using C++
+This 
